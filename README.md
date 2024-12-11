@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="logo-ai-venture.png" alt="Ai-Venture Logo" width="75"/>
+  <img src="logo-ai-venture.png" alt="Ai-Venture Logo" width="50"/>
 </p>
 
-# <p align="center">Ai-venture 🌟</p>  
-<p align="center">**Tourism Recommendation System**</p>  
-<p align="center">_Bangkit 2024 Capstone Team Project - C242-PS510_</p>
----
+<h1 align="center">Ai-venture 🌟</h1>  
+<p align="center"><b>Tourism Recommendation System</b></p>  
+<p align="center"><i>Bangkit 2024 Capstone Team Project - C242-PS510</i></p>
 
+---
 ## 👋 Welcome to Ai-venture!  
 Ai-venture is a cutting-edge project aimed at enhancing tourism experiences in Semarang by combining the power of **Machine Learning (ML)**, **Cloud Computing (CC)**, and **Mobile Development (MD)**. Whether you're a tourist exploring new destinations or a local seeking hidden gems, Ai-venture is here to provide personalized recommendations tailored to your preferences.
 
