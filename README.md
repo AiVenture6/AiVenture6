@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="logo-ai-venture.png" alt="Ai-Venture Logo" width="400"/>
+</p>
+
 # Ai-venture 🌟  
-**Tourism Recommendation System for Semarang**  
+**Tourism Recommendation System**  
 _Bangkit 2024 Capstone Team Project - C242-PS510_
 
 ---
