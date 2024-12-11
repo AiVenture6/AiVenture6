@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-ai-venture.png" alt="Ai-Venture Logo" width="400"/>
+  <img src="logo-ai-venture.png" alt="Ai-Venture Logo" width="200"/>
 </p>
 
 # Ai-venture 🌟  
