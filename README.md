@@ -2,9 +2,11 @@
   <img src="logo-ai-venture.png" alt="Ai-Venture Logo" width="50"/>
 </p>
 
-# Ai-venture 🌟  
-**Tourism Recommendation System**  
-_Bangkit 2024 Capstone Team Project - C242-PS510_
+<p align="center">
+  # Ai-venture 🌟  
+  **Tourism Recommendation System**  
+  _Bangkit 2024 Capstone Team Project - C242-PS510_
+</p>
 
 ---
 
