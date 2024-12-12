@@ -51,11 +51,11 @@ We are a team of passionate learners from **Universitas Negeri Semarang**, unite
 1. **AI-Powered Recommendations**: Personalized suggestions for attractions, restaurants, and hotels.  
 2. **Photo Recognition**: Upload a photo to identify nearby tourist locations.  
 3. **E-Commerce Integration**: Explore and book hotels or purchase tickets seamlessly.  
-4. **User Account Management**: Secure login, bookmarks, and trip histories.
+4. **User Account Management**: Secure login, register, and trip histories.
 
 ---
 
-## 📂 Project Branches  
+## 📂 Project Repository  
 We have structured our project into the following branches:  
 - **Machine Learning**: Development of recommendation algorithms and image recognition.  
 - **Mobile Android Development**: Creation of a user-friendly app interface.  
@@ -70,7 +70,10 @@ We are always open to collaboration! If you're a developer, researcher, or touri
 
 ## 📞 Contact Us  
 Have questions, feedback, or ideas? We'd love to hear from you!  
-- **Email**: Ai-venture.bangkit2024@gmail.com  
-- **GitHub Repository**: [Ai-venture on GitHub](https://github.com/Ai-venture6)
+- **Email**:  mytripmyaiventure@gmail.com
+  
+- **GitHub Repository**: [Ai-venture GitHub](https://github.com/Ai-venture6)
 
 Together, let's make exploring Semarang a delightful and unforgettable experience! 🌍✨  
+
+---
